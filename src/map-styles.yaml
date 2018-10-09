@@ -329,19 +329,19 @@ global:
 fonts:
     Benton:
        - weight: 300 # Light
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-light.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-Light.ttf
        - weight: normal # Regular
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-regular.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-Regular.ttf
        - weight: normal # Regular
          style: italic
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-condensed-regular-italic.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-SemiboldItalic.ttf
        - weight: 600 # Semi Bold
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-medium.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-Semibold.ttf
        - weight: 600 # Semi Bold
          style: italic
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-medium-italic.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-SemiboldItalic.ttf
        - weight: bold
-         url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-bold.woff
+         url: https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/styles/fonts/OpenSans-Bold.ttf
        - weight: condnensed
          url: https://s3.amazonaws.com/latimes-datadesk-template/fonts/0.5.0/benton-gothic-condensed-regular.woff
 

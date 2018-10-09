@@ -145,7 +145,7 @@ var map = L.map('map', {
 
 map.attributionControl.setPrefix(attribution+'Nextzen, OpenStreetMap');
 var quietLAlayer = Tangram.leafletLayer({
-    scene: 'map-styles.yaml',
+    scene: 'https://wfpdata.s3.amazonaws.com/GraemeBruce/web-map-maker-master/src/map-styles.yaml',
     events: {
         // click: function(selection) { console.log('Click!', selection); }
     }
